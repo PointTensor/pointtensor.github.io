@@ -8,4 +8,8 @@ Welcome to my post!WOOOOW!!pppp
 
 مرحبا بكم!!
 
-ברועכים הבאים
+<div dir="rtl">
+مرحبا بكم!!
+</div>
+
+ברוכים הבאים
