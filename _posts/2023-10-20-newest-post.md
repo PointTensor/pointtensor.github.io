@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Newst post is in the past!"
-date:   2023-10-18 23:46:22 +0400
+date:   2023-10-18 23:46:20 +0400
 categories: jekyll update
 ---
 Welcome to my post!
