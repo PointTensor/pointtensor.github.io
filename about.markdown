@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am theoretical physics PhD graduate who is interested in various topics ranging from the hard sciences to AI to history. I find that it is easier to consolidate new ideas that I come across by writing about them, either as articles or simple notes. Therefore I decided to start is blog in hope of sharing my interest with the rest of humanity.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can also find me on [twitter](https://twitter.com/SemiticSoul) and [Linkedin](https://www.linkedin.com/in/rashid-alawadhi/).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Find my projects at my [github](github.com/PointTensor)
 
-
-[jekyll-organization]: https://github.com/jekyll
+Email address: r.s.alawadhi@gmail.com
