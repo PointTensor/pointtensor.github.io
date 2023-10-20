@@ -23,3 +23,5 @@ Below is an arabic translation of a portion of the text above as it appearted in
 
 هناك أيضا من أبناء شعبنا بعد نفيهم من أرضهم من سكن وترعرع مع العرب في بقاعهم، وتعلموا لسانهم وفكرهم، وبالاخطلات معهم تعلموا صياغة الشعر منهم. بينما أجدادنا في الأرض المقدسة لا نعهد لهم شعرا موزونا باللسان المقدس، فقط سفر أيوب والأمثال والمزامير وهي آيات قصيرة وقليلة تشابه الشعر فقط فهي ليست ذات قافية ولا وزن.
 </div>
+
+Finally, I must note that this post is not to argue that Arabic poetry is better that of Hebrew or any other language for that matter. Whether a specific poem is better that another one is subjective. This post is an attempt at a translation of the above hebrew text.
