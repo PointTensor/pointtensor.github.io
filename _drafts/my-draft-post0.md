@@ -72,8 +72,43 @@ Q4:12 'akh       |  Q4:22 nakakha  |   Q4:23 al-'akh
 
 # 3. CBL Is. 1615 I, Doha Museum of Islamic Art Ms. 68, and a Folio from a Private Collection
 
-This manuscripts shows a more even distribution between the usage of the straight and curved jīm (22 to 17 times, respectively).
+This manuscripts shows a more even distribution between the usage of the straight and curved jīm (22 to 17 times, respectively). Here are some examples of the straight jīm
 
-Q4:6 al-nikaḥ           |  Q4:23 junaḥ  |   Q4:24 junaḥ
+Q28:32 takhruj           |  Q30:19 yukhriju  |   Q30:19 yukhriju (5r, l. 12)
 :-------------------------:|:-------------------------:|:-------------------------:
-![alnikah]({{"/assets/images/quran-manuscripts/2/al-nikāḥ.png" | absolute_url }})  |  ![junah]({{"assets/images/quran-manuscripts/2/junāḥ.png" | absolute_url }})    |  ![junah2]({{"assets/images/quran-manuscripts/2/junāḥ2.png" | absolute_url }}) |
+![takhruj]({{"/assets/images/quran-manuscripts/3/takhruj.png" | absolute_url }})  |  ![yukhriju]({{"assets/images/quran-manuscripts/3/yukhriju.png" | absolute_url }})    |  ![yukhriju2]({{"assets/images/quran-manuscripts/3/yukhriju2.png" | absolute_url }}) |
+
+and some of the curved one
+
+Q30:48 yakhruju           |  Q31:29 yūliju  |   Q31:29 yūliju
+:-------------------------:|:-------------------------:|:-------------------------:
+![yakhruju]({{"/assets/images/quran-manuscripts/3/yakhruju.png" | absolute_url }})  |  ![yuliju1]({{"assets/images/quran-manuscripts/3/yūliju.png" | absolute_url }})    |  ![yuliju2]({{"assets/images/quran-manuscripts/3/yūliju2.png" | absolute_url }}) |
+
+The straight ḥa' is found only 4 times out of 44 instances, while the kha' appears 7 times and only in the curved form. As noted above, this transcript shows a more even distribution of the shape of the letter jīm; perhaps, representing a translational stage between the manuscripts that keep the shapes distinct and those that fully shifted to the curved jīm. The p value at 0.0001 shows a statistical significance. Van Putten notes that the scribe of this manuscript seemed to have a choice regarding the shape of jīm.
+
+# 4. BnF Arabe 330f
+
+This is another manuscript in the KUFIC A.I style that, despite its limited attestations, shows a degree of variance between the straight and open jīm. The jīm may be curved, but the ḥa' is always curved.
+
+There 6 instances of jīm in this manuscript, 4 are straight and two are curved,
+
+Q33:37 kharaj           |  Q33:37 ʾazwāj  |   Q4:100 yakhruj *(curved)* |
+:-------------------------:|:-------------------------:|:-------------------------:
+![kharaj]({{"/assets/images/quran-manuscripts/4/kharaj.png" | absolute_url }})  |  ![azwaj3]({{"assets/images/quran-manuscripts/4/ʾazwāj.png" | absolute_url }})    |  ![yakhruj]({{"assets/images/quran-manuscripts/4/yakhruj.png" | absolute_url }}) |
+
+Q33:50 kharaj           |  Q33:38 [khara]j  |   Q9:64 mukhrij *(curved)* |
+:-------------------------:|:-------------------------:|:-------------------------:
+![kharaj]({{"/assets/images/quran-manuscripts/4/kharaj.png" | absolute_url }})  |  ![[khara]j]({{"assets/images/quran-manuscripts/4/[khara]j.png" | absolute_url }})    |  ![yakhruj]({{"assets/images/quran-manuscripts/4/makhruj.png" | absolute_url }}) |
+
+while thee ḥa' appears 11 times and always with a hoo Here are some examples
+
+Q4:102 junāḥ           |  Q4:141 fatḥ  |   Q9:70 nūḥ|
+:-------------------------:|:-------------------------:|:-------------------------:
+![junahQ4:102]({{"/assets/images/quran-manuscripts/4/junāḥ.png" | absolute_url }})  |  ![fath]({{"assets/images/quran-manuscripts/4/fatḥ.png" | absolute_url }})    |  ![nuh]({{"assets/images/quran-manuscripts/4/nūḥ.png" | absolute_url }}) |
+
+Even though the amount of samples is limited in this manuscript, the p value of 0.0063 still shows statistical significance.
+
+The above were just a very brief showcasing of the evidence that Van Putten provides and elaborates on. Interested reader should read the actual paper and scrutinise the references that he proves. There are some manuscripts from the early period that always have the curved jīm as he shows with the Codex Parisino-Petropolitanus (Hand C) manuscript. Let us now move on to the origin of such distinction and how it fits in the context of Paleography and the ancestor of the Arabic script, the Nabataean script.
+
+# Nabataean origins
+Van Putten notes that the distinction between the jīm and Ḥa'/Kha' is attested in many early manuscripts and in a variety of styles, but it is permanently lost in later manuscripts and styles. There are very early manuscripts which did not distinguish between he letters, and others that did; what are the possible origins of the distinction? Van Putten provides two possible explanations of which one of them is the correct one in his view. The first one is that there might have been a free variation between the letters, and the scribe could choose which shape to use and make a distinction between the letter. The second possibility is that this distinction is inherited from an earlier stage of the Arabic language.
