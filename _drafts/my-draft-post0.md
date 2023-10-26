@@ -12,4 +12,21 @@ Van Putten examines several manuscripts that contain instances of jīm and  Ḥ�
 # 1. Codex Amrensis 1
 This manuscript is dated to around the first half of the second/eighth century on paleographical grounds. The script is written in a style called Late Hijazi (as named by Cellard) with elements similar to Kufic A. In this manuscript, the straight shape is used for jīm while for  Ḥāʾ/Khāʾ the curved shape is used instead. As noted by Van Putten, the final jīm is used 24 times in its straight form.
 
-![Book logo](https://pointtensor.github.io/ralawadhi/blob/site/assets/images/quran_manuscripts/amrensis1/Q9alhaj.png)
+
+<figure>
+    <img
+    src="https://pointtensor.github.io/ralawadhi/assets/images/quran-manuscripts/amrensis1/Q9alhaj.png"
+    alt="Q9:3 al-ḥajj"
+    style="float: left"> 
+</figure>
+<center>
+<figure>
+    <img
+    src="https://pointtensor.github.io/ralawadhi//assets/images/quran-manuscripts/amrensis1/Q9alhaj.png"
+    alt="Q9:3 al-ḥajj"> 
+</figure>
+</center>
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![1]("/ralawadhi/assests/images/quran-manuscripts/amrensis1/Q9alhaj.png")  |  ![2]("https:/pointtensor.github.io/ralawadhi/assets/images/quran-manuscripts/amrensis1/Q9alhaj.png")

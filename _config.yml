@@ -27,6 +27,8 @@ url: "https://pointtensor.github.io" # the base hostname & protocol for your sit
 twitter_username: semiticsoul
 github_username:  PointTensor
 
+permalink: pretty
+
 # Fields that minima uses, but are not defaulted with the jekyll new command.
 # Author is the default for posts, the Atom feed, and is used on the footer.
 author: Rashid Alawadhi
