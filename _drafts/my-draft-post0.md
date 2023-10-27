@@ -5,7 +5,7 @@ title:  "A distinction between the initial and final jīm in early Quranic manus
 date:   2023-10-19 23:46:09 +0400
 categories: arabic
 ---
-This post is a brief showcasing of a research paper by Dr Marjin van Putten and is in no way a substitute for the actual paper. Readers are encouraged to check van Putten's paper for a more detailed exposition and crucial sources.
+*This post is a brief showcasing of a research paper by Dr Marjin van Putten and is in no way a substitute for the actual paper. Readers are encouraged to check van Putten's paper for a more detailed exposition and crucial sources. All photos are taken from his paper.*
 
 In his [paper](https://journals.library.columbia.edu/index.php/alusur/article/view/6781), Dr Marijn van Putten shows and argues that there was a distinction between the letters jīm and Ḥāʾ/Khāʾ in their final form in early Quranic manuscripts. This is important since in early manuscripts, these letters lacked the dots which helped distinguish between them. For example, jīm and Ḥāʾ/Khāʾ are written as ج, ح, خ respectively (from right to left). The jīm has a dot in the middle of the letter, while the Ḥāʾ lacks a dot. Moreover, Dr van Putten argues that this distinction stems from an earlier period of the arabic script which originates from the Nabataean Aramaic script, in which the three letters had distinct shapes. He also provides evidence that the merger between the initial and final jīm happened in the islamic period rather than the pre-islamic period. This is study is important because this finding could pave the way to further accurately estimate the age of certain manuscripts that seem to be close in time. For example manuscripts that use the straight jīm could be older than those that use the hooked one.
 
