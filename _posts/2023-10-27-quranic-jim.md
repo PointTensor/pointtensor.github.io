@@ -52,7 +52,7 @@ This manuscript is written in an unclassified style, all be it with some feature
 
 Q4:20 zawj            |  Q4:20 zawj  |   Q4:100 yakhruj
 :-------------------------:|:-------------------------:|:-------------------------:
-![zawj1]({{"/assets/images/quran-manuscripts/2/zawj.png" | absolute_url }})  |  ![zawj2]({{"assets/images/quran-manuscripts/2/zawj2.png" | absolute_url }})    |  ![yakhruj]({{"assets/images/quran-manuscripts/2/yakhruj.png" | absolute_url }}) |
+![zawj1]({{"/assets/images/quran-manuscripts/2/zawj.png" | absolute_url }})  |  ![zawj2]({{"assets/images/quran-manuscripts/2/zawj2.png" | absolute_url }})    |  ![yakhruj]({{"assets/images/quran-manuscripts/2/yakhruj.PNG" | absolute_url }}) |
 
 And a single instance of curved jīm.
 
