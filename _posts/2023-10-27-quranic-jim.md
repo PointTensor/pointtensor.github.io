@@ -100,7 +100,7 @@ Q33:37 kharaj           |  Q33:37 ʾazwāj  |   Q4:100 yakhruj *(curved)* |
 
 Q33:50 kharaj           |  Q33:38 [khara]j  |   Q9:64 mukhrij *(curved)* |
 :-------------------------:|:-------------------------:|:-------------------------:
-![kharaj4]({{"/assets/images/quran-manuscripts/4/kharaj4" | absolute_url }})  |  ![kharajj]({{"assets/images/quran-manuscripts/4/kharjj.PNG" | absolute_url }})    |  ![yakhruj]({{"assets/images/quran-manuscripts/4/makhruj.PNG" | absolute_url }}) |
+![kharaj4]({{"/assets/images/quran-manuscripts/4/kharaj4" | absolute_url }})  |  ![kharajj]({{"assets/images/quran-manuscripts/4/kharjj" | absolute_url }})    |  ![yakhruj]({{"assets/images/quran-manuscripts/4/makhruj.PNG" | absolute_url }}) |
 
 while thee ḥa' appears 11 times and always with a hoo Here are some examples
 
