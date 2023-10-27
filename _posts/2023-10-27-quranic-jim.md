@@ -177,7 +177,7 @@ He first notes that in one of the photos the rā' and zāy exhibit a lunate shap
 # Conclusion
 With this, van Putten concludes how paper. He argued that the distinction between the final jīm and final ḥa'/kha' is a remenant of an earlier stage of the Arabic script; moreover, the distinction, or traces of it, persisted into the early islamic period as can be seen from the various manuscripts he examined. Here is an illustration of the development of the gimel and ḥet towards jīm and ḥa'/kha' respectively, running from the oldest on the right to the most advanced from on the left.
 
-| 
+|
 :-------------------------:|
 ![devletters2]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/dev_letters2.png" | absolute_url }}) |
 
