@@ -134,10 +134,6 @@ gimel         |  ḥet  |
 :-------------------------:|:-------------------------:|
 ![gimel_dev]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/gimel_dev.png" | absolute_url }})  |  ![het_dev]({{"assets/images/quran-manuscripts/nabataean-inscriptions/het_dev.png" | absolute_url }})    |
 
-<!-- Letters development         |
-:-------------------------:|
-![jsnab17]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/dev_letters.png" | absolute_url }}) | -->
-
 Let us examine the *final* ḥet from the inscriptions JSNab 17 (267 CE) and LPNab 41 (3rd c. CE). Here the classical shape of ḥet is evident.
 
 JSNab 17:b-yrḥ          |  LPNab 41:tnwḥ 
