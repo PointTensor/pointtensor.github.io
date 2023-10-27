@@ -2,7 +2,7 @@
 layout: post
 author: Rashid Alawadhi
 title:  "A distinction between the initial and final jīm in early Quranic manuscripts"
-date:   2023-10-19 23:46:09 +0400
+date:   2023-10-27 22:20:00 +0400
 categories: arabic
 ---
 *This post is a brief showcasing of a research paper by Dr Marjin van Putten and is in no way a substitute for the actual paper. Readers are encouraged to check van Putten's paper for a more detailed exposition and crucial sources. All photos are taken from his paper.*
