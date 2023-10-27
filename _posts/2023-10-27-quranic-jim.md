@@ -117,7 +117,7 @@ van Putten notes that the distinction between the jīm and Ḥa'/Kha' is atteste
 
 Q9:110         |  Q9:111  |  
 :-------------------------:|:-------------------------:|
-![fi-short]({{"/assets/images/quran-manuscripts/fi/fi-long.PNG" | absolute_url }})  |  ![fi-long]({{"assets/images/quran-manuscripts/fi/fi-short.PNG" | absolute_url }})    |
+![fi-short]({{"/assets/images/quran-manuscripts/fi/fi-long.png" | absolute_url }})  |  ![fi-long]({{"assets/images/quran-manuscripts/fi/fi-short.png" | absolute_url }})    |
 
 The shape seems to have no functionality is a mere stylistic choice. Therefore, one could suppose that it is the same case for ḥa' and its two form. However, van Putten argues that there are problems problem with such a hypothesis. First, there are no explanation as to why some manuscripts used this free variation to make a distinction, while others did not. Second, all the examined manuscripts are dotted; therefore, ambiguities were not a concern when it came to the final from of jīm and ḥa'. Third, words involving final jīm and ḥa' that can be ambiguous, such as zawj and rūḥ (روح, زوج) are scarce. Thus there is not a clear incentive for using different form in order to distinguish between the letters. Finally, van Putten states that the scribes did not see a reason to distinguish between the final yā' and the alif maqṣūrah, which seems like a sensible distinction in his view. With these point, van Putten concludes that early scribes did not employ these variants in the shape opf the letters to make phonemic distinctions.
 
@@ -132,45 +132,45 @@ For reference, here is the approximate development of the letters gimel and ḥe
 
 gimel         |  ḥet  |  
 :-------------------------:|:-------------------------:|
-![gimel_dev]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/gimel_dev.PNG" | absolute_url }})  |  ![het_dev]({{"assets/images/quran-manuscripts/nabataean-inscriptions/het_dev.PNG" | absolute_url }})    |
+![gimel_dev]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/gimel_dev.png" | absolute_url }})  |  ![het_dev]({{"assets/images/quran-manuscripts/nabataean-inscriptions/het_dev.png" | absolute_url }})    |
 
 Let us examine the *final* ḥet from the inscriptions JSNab 17 (267 CE) and LPNab 41 (3rd c. CE). Here the classical shape of ḥet is evident.
 
 JSNab 17:b-yrḥ          |  LPNab 41:tnwḥ 
 :-------------------------:|:-------------------------:
-![byrh]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/byrh.PNG" | absolute_url }})  |  ![tnwh]({{"assets/images/quran-manuscripts/nabataean-inscriptions/tnwh.PNG" | absolute_url }})    | 
+![byrh]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/byrh.png" | absolute_url }})  |  ![tnwh]({{"assets/images/quran-manuscripts/nabataean-inscriptions/tnwh.png" | absolute_url }})    | 
 
 However, a ḥet that is closer to the straight jīm can be seen in the inscription published by Stiel (356 CE), albeit the left stroke is at an angle relative to the horizontal line.
 
 |
 :-------------------------:|
-![stiel-byrh]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/stiel-byrh.PNG" | absolute_url }}) |
+![stiel-byrh]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/stiel-byrh.png" | absolute_url }}) |
 
 And an even closer shape to the current Arabic script can be found in Ḥimà-Sud PalAr 1 (470 CE). A distince downward curve can be seen.
 
 
 |
 :-------------------------:|
-![hima_byrh]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/hima-byrh.PNG" | absolute_url }}) |
+![hima_byrh]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/hima-byrh.png" | absolute_url }}) |
 
 # Final jim
 The inscription UJadhNab, dated to 303 CE, contains the phrase *ḥajj alfatīr* (feast of the leavened bread). The jīm, represended by gimel, clearly lacks the curve which the ḥet of the Arabic-Nabataean tranaslation script exhibits.
 
 |
 :-------------------------:|
-![fatir]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/fatir-haj.PNG" | absolute_url }}) |
+![fatir]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/fatir-haj.png" | absolute_url }}) |
 
 The next emaple of gimel/jīm that van Putten puts up is an undated inscription (UJadhNab 486), believed to be saying al-khazraj, written in the translational Arabic-Nabataean script. The final jīm here is clearly straight and distinct from the ḥet from Stiel's inscription above, which has more of a sharp triangular shape.
 
 |
 :-------------------------:|
-![alhzraj]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/alhzrj0.PNG" | absolute_url }}) |
+![alhzraj]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/alhzrj0.png" | absolute_url }}) |
 
 van Putten goes further and provides two more inscriptions of the word alkhazraj from pre-islamic times, but written in the Arabic proper scrip rather than the translational Arabic-Nabataean one.
 
 | 
 :-------------------------:|:-------------------------:
-![fariq5]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/fariq5.PNG" | absolute_url }})  |  ![fariq6]({{"assets/images/quran-manuscripts/nabataean-inscriptions/fariq6.PNG" | absolute_url }})    | 
+![fariq5]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/fariq5.png" | absolute_url }})  |  ![fariq6]({{"assets/images/quran-manuscripts/nabataean-inscriptions/fariq6.png" | absolute_url }})    | 
 
 He first notes that in one of the photos the rā' and zāy exhibit a lunate shape which was typical of the islamic period. This suggests that this prescription was made close to the islamic period. Regarding the shape of the final jīm, we can see that in both isncriptions the jīm, which is being represented by the letter ḥet, lacks the distinctive curved which can be found in inscriptions from the same time period.
 
@@ -179,6 +179,6 @@ With this, van Putten concludes how paper. He argued that the distinction betwee
 
 |
 :-------------------------:|
-![devletters2]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/dev_letters2.PNG" | absolute_url }}) |
+![devletters2]({{"/assets/images/quran-manuscripts/nabataean-inscriptions/dev_letters2.png" | absolute_url }}) |
 
 His finding could prove to be of importance in dating certain manuscriptsm from similar early islamic time periods.
