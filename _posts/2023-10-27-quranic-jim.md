@@ -31,7 +31,7 @@ This manuscript is dated to around the first half of the second/eighth century o
 
 Q9:3 al-ḥajj            |  Q9:19 al-ḥājj  |   Q9:46 al-khurūj
 :-------------------------:|:-------------------------:|:-------------------------:
-![alhajj]({{"/assets/images/quran-manuscripts/amrensis1/Q9alhaj.PNG" | absolute_url }})  |  ![alhajj2]({{"assets/images/quran-manuscripts/amrensis1/alhaj2.jpeg" | absolute_url }})    |  ![al-khuruj]({{"assets/images/quran-manuscripts/amrensis1/alkhuruj.jpeg" | absolute_url }})
+![alhajj]({{"/assets/images/quran-manuscripts/amrensis1/Q9alhaj.png" | absolute_url }})  |  ![alhajj2]({{"assets/images/quran-manuscripts/amrensis1/alhaj2.jpeg" | absolute_url }})    |  ![al-khuruj]({{"assets/images/quran-manuscripts/amrensis1/alkhuruj.jpeg" | absolute_url }})
 
 On the other hand, the ḥa' appears written in the curved shape 39 times about of a total of 40 instances.
 
