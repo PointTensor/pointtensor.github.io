@@ -8,6 +8,6 @@ I am theoretical physics PhD graduate who is interested in various topics rangin
 
 You can also find me on [twitter](https://twitter.com/SemiticSoul) and [Linkedin](https://www.linkedin.com/in/rashid-alawadhi/).
 
-Find my machine learning projects at my [github](github.com/ralawadhi) and my scientific publications in [google scholar](https://scholar.google.com/citations?user=W4-SjWQAAAAJ&hl=en&oi=ao).
+Find my machine learning projects at my [github](https://github.com/ralawadhi) and my scientific publications in [google scholar](https://scholar.google.com/citations?user=W4-SjWQAAAAJ&hl=en&oi=ao).
 
 Email address: r.s.alawadhi@gmail.com
