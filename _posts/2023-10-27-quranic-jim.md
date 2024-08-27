@@ -17,14 +17,14 @@ This manuscript is dated to around the first half of the second/eighth century o
 
 <!-- <figure>
     <img
-    src="https://ralawadhi.github.io/assets/images/quran-manuscripts/amrensis1/Q9alhaj.PNG"
+    src="https://https://github.com/ralawadhi/ralawadhi.github.io/assets/images/quran-manuscripts/amrensis1/Q9alhaj.PNG"
     alt="Q9:3 al-ḥajj"
     style="float: left"> 
 </figure>
 <center>
 <figure>
     <img
-    src="https://ralawadhi.github.io//assets/images/quran-manuscripts/amrensis1/Q9alhaj.PNG"
+    src="https://https://github.com/ralawadhi/ralawadhi.github.io//assets/images/quran-manuscripts/amrensis1/Q9alhaj.PNG"
     alt="Q9:3 al-ḥajj"> 
 </figure>
 </center> -->
