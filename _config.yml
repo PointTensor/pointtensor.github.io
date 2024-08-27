@@ -23,7 +23,7 @@ email: r.s.alawadhi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   In this blog you will find my writings on various topics including, science, technology, linguistics, and history. I will take atmost care in backing up any claims I make with references to sources.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://pointtensor.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ralawadhi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: semiticsoul
 github_username:  ralawadhi
 
