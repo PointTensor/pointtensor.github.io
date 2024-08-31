@@ -33,10 +33,11 @@ Below is an arabic translation of a portion of the text above as it appearted in
 
 Finally, I must note that this post is not to argue that Arabic poetry is better that of Hebrew or any other language for that matter. Whether a specific poem is better that another one is subjective. This post is an attempt at a translation of the above hebrew text.
 
-<span>
-{% for tag in page.tags %}
-    <a href="/tag_index/#{{ tag | slugify }}" class="btn btn-outline-dark tag-btn">
-        <span class="fas fa-tag" aria-hidden="true"></span> {{ tag }}
-    </a>
-{% endfor %}
-</span>
+{% for tag in posts.tag %}
+ {% assign tag_slug = tag | slugify: "raw" %}
+ <a class="tag-link"
+   href={{site.baseurl | append: "/tags/" | append: tag_slug | append: "/" }}
+   rel="category tag">
+   ##{{ tag }}
+ </a>
+ {% end for %}
