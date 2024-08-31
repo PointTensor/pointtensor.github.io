@@ -4,6 +4,12 @@ author: Rashid Alawadhi
 title: On Arabic poetry by Rabbi Yehuda Alharizi
 date:   2023-10-20 23:46:20 +0400
 categories: semitic languages
+tages:
+- hebrew
+- language
+- translation
+- jews
+- arabs
 ---
 Recently I got back into Hebrew and was flicking through one of my Hebrew textbooks, which had a portion of an essay written by the 12th century rabbi Yehuda Alharizi (Hebrew: יהודה בן שלמה אלחריזי, Arabic: يهوذا الحريزي). In one of the chapters of his book, ספר תחכמוני , he tells the story of a certain man who traveled to the holy land and was among the presence of learned men. The men were discussing poetry, its secrets and origins. Yehuda then writes what is supposedly a tale told by the traveling man. 
 
