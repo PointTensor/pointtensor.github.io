@@ -47,6 +47,9 @@ future: true
 
 show_drafts: false
 
+# minima:
+#   skin: dark
+
 # Build settings
 # Removed minima theme as it is now a regular theme
 # theme: minima

@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
+  border-top: 0px solid rgb(63, 78, 79);
+  border-bottom: 0px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
 
   // Positioning context for the mobile navigation icon
@@ -17,10 +17,11 @@
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
+  color: rgb(51, 122, 127);
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: rgb(51, 122, 127);
   }
 }
 
@@ -199,7 +200,7 @@
 
 .post-meta {
   font-size: $small-font-size;
-  color: rgb(106, 106, 106);
+  color: #9a9a9af5;
 }
 
 .post-link {

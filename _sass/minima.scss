@@ -10,14 +10,22 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #111 !default;
-$background-color: rgb(255, 241, 222) !default;
-$brand-color:      #2a7ae2 !default;
+$text-color:       rgba(220, 215, 201, 0.803) !default;
+$background-color: rgb(44, 54, 57) !default;
+$brand-color:      rgb(162, 123, 92) !default;
 
-$grey-color:       #646464e2 !default;
+// $text-color:       #111 !default;
+// $background-color: rgb(255, 241, 222) !default;
+// $brand-color:      #2a7ae2 !default;
+
+$grey-color:       #9a9a9af5 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
-
+// colour to use
+// rgb(162, 123, 92)
+// rgb(44, 54, 57)
+// rgb(63, 78, 79)
+// rgb(220, 215, 201)
 $table-text-align: left !default;
 $text-align: justify !default;
 div {
