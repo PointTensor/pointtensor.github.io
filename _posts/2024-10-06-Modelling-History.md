@@ -4,7 +4,7 @@ author: Rashid Alawadhi
 title:  "Modelling History as a Dynamical System, Chaos and Self-Similarity"
 date:   2024-10-06 22:20:00 +0400
 categories: history, chaos, self-similarity, dynamical-systems
-published: false
+published: true
 ---
 
 This is an essay I originally wrote to be published on [the Real Sciences magazine](https://real-sciences.com/). Omar Meriwani was a contributor and editor who made some helpful remarks and rephrasing. This essay was born out of my thinking about fractals and their properties such as self-similarity. Modelling history is a difficult multi-discipline endeavour and it would be helpful to coarse grain the problem by finding a sort of consistent patterns that historical records experience. It dawned on me that history *tends* to *repeat* itself, but not *exactly*; like fractals.
