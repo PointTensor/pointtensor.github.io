@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Space&Time
+title: Rashid's Thought Café
 email: r.s.alawadhi@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   In this blog you will find my writings, and ramblings, on various topics including, science, technology, linguistics, and history.
