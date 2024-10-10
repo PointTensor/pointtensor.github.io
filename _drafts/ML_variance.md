@@ -4,7 +4,7 @@ author: Rashid Alawadhi
 title:  "Effect of Variance on Weight Initialisation"
 date:   2024-08-31 22:20:00 +0400
 categories: ML
-
+---
 Weight initialisation is an important aspect of ML. One might have the right architecture for a given problem but the model wold still not learn. To schematically see how the initial values of weights affect the process of training, assume our neural network is
 $$f_{NN} \propto www\cdots wx. $$
 If we initialise our weights to be zero or close to zero then after each subsequent layer during a forward pass, the signal becomes smaller and smaller leading to no predictions. This also affects back-propagation and leads to the problems of vanishing and exploding gradients. If the weights are too small then they won't get updated sufficiently since,
