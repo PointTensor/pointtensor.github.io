@@ -2,7 +2,7 @@
 layout: post
 author: Rashid Alawadhi
 title:  "The Shift Operator and its Generalisation"
-date:   2024-11-20
+date:   2024-12-17
 categories: maths, physics, operator, quantum
 ---
 
